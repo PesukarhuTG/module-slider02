@@ -1,0 +1,4 @@
+.jshint
+
+#dependencies
+/node_modules
