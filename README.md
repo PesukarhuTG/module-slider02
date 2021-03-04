@@ -59,3 +59,5 @@ In style.css you can change dots position and design:
 
 ### Install
     npm install
+    npm install webpack webpack-cli --save-dev
+    npx webpack
